@@ -5,7 +5,7 @@ Learning project following the official [Next.js App Router course](https://next
 ## Progress
 - [x] Chapter 1 - Getting Started
 - [x] Chapter 2 - CSS Styling
-- [ ] Chapter 3 - Optimizing Fonts & Images
+- [x] Chapter 3 - Optimizing Fonts & Images
 - [ ] Chapter 4 - Creating Layouts & Pages
 - [ ] Chapter 5 - Navigating Between Pages
 - [ ] Chapter 6 - Setting Up Your Database
