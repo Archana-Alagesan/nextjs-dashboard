@@ -8,7 +8,7 @@ Learning project following the official [Next.js App Router course](https://next
 - [x] Chapter 3 - Optimizing Fonts & Images
 - [x] Chapter 4 - Creating Layouts & Pages
 - [x] Chapter 5 - Navigating Between Pages
-- [ ] Chapter 6 - Setting Up Your Database
+- [x] Chapter 6 - Setting Up Your Database
 - [ ] Chapter 7 - Fetching Data
 - [ ] Chapter 8 - Static & Dynamic Rendering
 - [ ] Chapter 9 - Streaming
