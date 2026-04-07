@@ -12,13 +12,12 @@ Learning project following the official [Next.js App Router course](https://next
 - [x] Chapter 7 - Fetching Data
 - [x] Chapter 8 - Static & Dynamic Rendering
 - [x] Chapter 9 - Streaming
-- [ ] Chapter 10 - Partial Prerendering
-- [ ] Chapter 11 - Adding Search & Pagination
-- [ ] Chapter 12 - Mutating Data
-- [ ] Chapter 13 - Handling Errors
-- [ ] Chapter 14 - Improving Accessibility
-- [ ] Chapter 15 - Adding Authentication
-- [ ] Chapter 16 - Adding Metadata
+- [x] Chapter 10 - Adding Search & Pagination
+- [ ] Chapter 11 - Mutating Data
+- [ ] Chapter 12 - Handling Errors
+- [ ] Chapter 13 - Improving Accessibility
+- [ ] Chapter 14 - Adding Authentication
+- [ ] Chapter 15 - Adding Metadata
 
 ## Tech Stack
 Next.js 14 | React | TypeScript | Tailwind CSS | PostgreSQL
