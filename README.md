@@ -10,7 +10,7 @@ Learning project following the official [Next.js App Router course](https://next
 - [x] Chapter 5 - Navigating Between Pages
 - [x] Chapter 6 - Setting Up Your Database
 - [x] Chapter 7 - Fetching Data
-- [ ] Chapter 8 - Static & Dynamic Rendering
+- [x] Chapter 8 - Static & Dynamic Rendering
 - [ ] Chapter 9 - Streaming
 - [ ] Chapter 10 - Partial Prerendering
 - [ ] Chapter 11 - Adding Search & Pagination
