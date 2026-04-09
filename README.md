@@ -16,7 +16,7 @@ Learning project following the official [Next.js App Router course](https://next
 - [x] Chapter 10 - Adding Search & Pagination
 - [x] Chapter 11 - Mutating Data
 - [x] Chapter 12 - Handling Errors
-- [ ] Chapter 13 - Improving Accessibility
+- [x] Chapter 13 - Improving Accessibility
 - [ ] Chapter 14 - Adding Authentication
 - [ ] Chapter 15 - Adding Metadata
 
