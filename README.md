@@ -18,7 +18,7 @@ Learning project following the official [Next.js App Router course](https://next
 - [x] Chapter 12 - Handling Errors
 - [x] Chapter 13 - Improving Accessibility
 - [x] Chapter 14 - Adding Authentication
-- [ ] Chapter 15 - Adding Metadata
+- [x] Chapter 15 - Adding Metadata
 
 ## Tech Stack
 
